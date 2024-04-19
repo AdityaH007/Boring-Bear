@@ -14,21 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_CustomBlends:
   - m_From: vcam1
-    m_To: vcam1 (1)
+    m_To: Main Camera
     m_Blend:
-      m_Style: 5
-      m_Time: 5
-      m_CustomCurve:
-        serializedVersion: 2
-        m_Curve: []
-        m_PreInfinity: 0
-        m_PostInfinity: 0
-        m_RotationOrder: 0
-  - m_From: vcam1 (1)
-    m_To: vcam1 (2)
-    m_Blend:
-      m_Style: 5
-      m_Time: 4
+      m_Style: 1
+      m_Time: 10
       m_CustomCurve:
         serializedVersion: 2
         m_Curve: []

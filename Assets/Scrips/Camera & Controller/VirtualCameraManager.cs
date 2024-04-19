@@ -24,7 +24,7 @@ public class VirtualCameraManager : MonoBehaviour
     void ActivateCamera()
     {
         if(Currentcamera.activeSelf){
-        //Currentcamera.SetActive(false);
+      //  Currentcamera.SetActive(false);
         NextCame.SetActive(true);
         }
     }
